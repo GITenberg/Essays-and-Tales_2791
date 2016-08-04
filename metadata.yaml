@@ -1,0 +1,42 @@
+_repo: Essays-and-Tales_2791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'English essays -- 18th century'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Introduction -- Public credit -- Household superstitions -- Opera
+  lions -- Women and wives -- The Italian opera -- Lampoons -- True and false humour
+  -- Sa Ga Yean Qua Rash Tow's impressions of London -- Vision of Marraton -- Six
+  papers on wit -- Friendship -- Chevy-Chase (two papers) -- Dream of the painters
+  -- Spare time (two papers) -- Censure -- The English language -- The Vision of Mirza
+  -- Genius -- Theodosius and Constantia -- Good nature -- A grinning match -- Trust
+  in God.
+title: Essays and Tales
+url: http://www.gutenberg.org/ebooks/2791
